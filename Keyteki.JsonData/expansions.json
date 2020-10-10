@@ -1,0 +1,33 @@
+{
+    "cota": {
+        "ids": [341],
+        "code": "CotA",
+        "name": "Call of the Archons",
+        "cardCount": 370,
+        "releaseDate": "2018-11-15"
+    },
+    "aoa": {
+        "ids": [435],
+        "code": "AoA",
+        "name": "Age of Ascension",
+        "cardCount": 370,
+        "releaseDate": "2019-05-30"
+    },
+    "wc": {
+        "ids": [
+            452,
+            453
+        ],
+        "code": "WC",
+        "name": "Worlds Collide",
+        "cardCount": 415,
+        "releaseDate": "2019-11-30"
+    },
+    "mm": {
+        "ids": [479],
+        "code": "MM",
+        "name": "Mass Mutation",
+        "cardCount": 438,
+        "releaseDate": "2020-05-31"
+    }
+}

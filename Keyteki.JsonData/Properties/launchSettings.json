@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Keyteki.JsonData": {
+      "commandName": "Project",
+      "commandLineArgs": "--expansion=mm"
+    }
+  }
+}

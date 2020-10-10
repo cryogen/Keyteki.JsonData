@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keyteki.JsonData", "Keyteki.JsonData\Keyteki.JsonData.csproj", "{494E0DF1-F9B1-422B-B4D6-8380EE97CF96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{494E0DF1-F9B1-422B-B4D6-8380EE97CF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494E0DF1-F9B1-422B-B4D6-8380EE97CF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494E0DF1-F9B1-422B-B4D6-8380EE97CF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494E0DF1-F9B1-422B-B4D6-8380EE97CF96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {009813A2-475B-476B-B826-D98E4530F84C}
+	EndGlobalSection
+EndGlobal
